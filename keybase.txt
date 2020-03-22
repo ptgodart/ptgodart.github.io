@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/godart
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://petergod.art
+  * I am godart (https://keybase.io/godart) on keybase.
+  * I have a public key ASAXqIyioJYYprwxHNa6l-ingSDkgObW7ChHl19mUvKSXQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012017a88ca2a09618a6bc311cd6ba97e8a78120e480e6d6ec2847975f6652f2925d0a",
+      "host": "keybase.io",
+      "kid": "012017a88ca2a09618a6bc311cd6ba97e8a78120e480e6d6ec2847975f6652f2925d0a",
+      "uid": "b37c22f18d831cc08a7c785883d4af19",
+      "username": "godart"
+    },
+    "merkle_root": {
+      "ctime": 1584839565,
+      "hash": "4e8ae92e4e9e757a4d2824532cab99c21628fc1b12134e651fc38c448f7d792555bdd9eb220d4901c027b8ee5e6891fa474a1684be477f1360e6da9bfa06c893",
+      "hash_meta": "fab7fc1742d07d379ca00f8028f22a80d16bbd91a9c19e72f66c882f50492354",
+      "seqno": 15535779
+    },
+    "service": {
+      "entropy": "6XSZJ1CtLawxhJd+Nr7bd/yM",
+      "hostname": "petergod.art",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584839572,
+  "expire_in": 504576000,
+  "prev": "1e17c7edb487dd667b57b4aa51508d108f26a3108031a9d79a97f8a7c81bf5b2",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgF6iMoqCWGKa8MRzWupfop4Eg5IDm1uwoR5dfZlLykl0Kp3BheWxvYWTESpcCFcQgHhfH7bSH3WZ7V7SqUVCNEI8moxCAManXmpf4p8gb9bLEIN5IqOFDH1U+qmlBxKzPOqujKltZxeVzgz+pbYxemUCOAgHCo3NpZ8RAKY0j+nWvUVgkDHfvcjZi4EGHy58NdTCLioAGL2I/RRKzaBfE0Gu3ea+qL7iWZfNOc0BtIoD+ekF1HdxHFfoDDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILcXaIr/Ui9027lqJ/VqHa3nbnu1J1duQz/PPVRXGJyzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/godart
+
+==================================================================
